@@ -1,5 +1,5 @@
 # ETH_AVAX_Module_4
-# Project: Degen Token (ERC-20): Unlocking the Future of Gaming
+## Project: Degen Token (ERC-20): Unlocking the Future of Gaming
 The project is an ERC-20 token smart contract called "Degen" with additional functionalities to manage token balances, mint and burn tokens, and operate a simple store for redeeming items using tokens.
 
 ## Description
